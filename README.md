@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm zKiryuu 
+<h1 align="center"> Hi 👋, I'm zKiryuu 
      
 ---
 
@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: Contribute more to Open Source projects
-
----
 
 <h2 align="center">🚀Languages and Tools:
 <br />
